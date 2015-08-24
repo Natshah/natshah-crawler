@@ -25,7 +25,7 @@ int main(int argc, char *argv[])
 
     cout <<"\n\n"
          <<"  Natshah Crawler [ Version 1.10.12 ]\n"
-         <<"  Copyright (c) 2010 Natshah.com .  All rights reserved.\n\n";
+         <<"  Copyright (c) 2015 Natshah.com .  All rights reserved.\n\n";
 
 
     // Load All Crawler Settings.
