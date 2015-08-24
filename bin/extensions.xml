@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensions>
+  <extension>.pdf</extension>
+  <!-- PDF    files  -->
+  <extension>.zip</extension>
+  <!-- ZIP    files  -->
+  <extension>.css</extension>
+  <!-- CSS    files  -->
+  <extension>.js</extension>
+  <!-- JS     files  -->
+  <extension>.rar</extension>
+  <!-- RAR    files  -->
+  <extension>.ace</extension>
+  <!-- ACE    files  -->
+  <extension>.gif</extension>
+  <!-- GIF    files  -->
+  <extension>.jpg</extension>
+  <!-- JPG    files  -->
+  <extension>.jpeg</extension>
+  <!-- JPEG   files  -->
+  <extension>.png</extension>
+  <!-- PNG    files  -->
+  <extension>.ico</extension>
+  <!-- ICO    files  -->
+  <extension>.wav</extension>
+  <!-- Wav    files  -->
+  <extension>.avi</extension>
+  <!-- AVI    files  -->
+  <extension>.mp3</extension>
+  <!-- MP3    files  -->
+  <extension>.mp4</extension>
+  <!-- MP4    files  -->
+  <extension>.mpg</extension>
+  <!-- MP4    files  -->
+</extensions>

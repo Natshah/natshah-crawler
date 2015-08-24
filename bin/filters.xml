@@ -1,0 +1,23 @@
+<filters>
+		<filter>\\</filter>					<!-- Not to have "\\" at the start of the URL  -->
+		<filter>\</filter>					<!-- Not to have "\\" at the start of the URL  -->
+		<filter>#</filter>					<!-- Not to have "#" at the start of the URL  -->
+		<filter>+</filter>					<!-- Not to have "+" at the start of the URL  -->
+		<filter>></filter>					<!-- Not to have ">" at the start of the URL  -->
+		<filter>&lt;</filter>				<!-- Not to have "<" at the start of the URL  -->
+		<filter>[</filter>					<!-- Not to have "[" at the start of the URL  -->
+		<filter>]</filter>					<!-- Not to have "]" at the start of the URL  -->
+		<filter>(</filter>					<!-- Not to have "(" at the start of the URL  -->
+		<filter>)</filter>					<!-- Not to have ")" at the start of the URL  -->
+		<filter>{</filter>					<!-- Not to have "{" at the start of the URL  -->
+		<filter>}</filter>					<!-- Not to have "}" at the start of the URL  -->
+		<filter>;</filter>					<!-- Not to have ";" at the start of the URL  -->
+		<filter>:</filter>					<!-- Not to have ":" at the start of the URL  -->
+		<filter>.</filter>					<!-- Not to have "." at the start of the URL  -->
+		<filter>javascript:</filter>		<!-- Not to have "javascript:" or any PoP up pages -->
+		<filter>mailto:</filter>			<!-- Not to have "mailto:" Links as emails  -->
+		<filter>http://</filter>			<!-- Not to have "http://" agin in the URL  -->
+		<filter>https://</filter>			<!-- Not to have "https://" agin in the URL  -->
+		<filter>ftp://</filter>				<!-- Not to have "ftp://" at the start of the URL  -->
+		<filter>file://</filter>			<!-- Not to have "file://" in any of the URLs  -->
+</filters>

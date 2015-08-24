@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cofigrations>
+  <type>QMYSQL</type>
+  <!-- Database Type -->
+  <host>localhost</host>
+  <name>natshahdb</name>
+  <user>root</user>
+  <password>123123</password>
+  <port>3306</port>
+  <prefix>emm_</prefix>
+  <urlsTableName>urls</urlsTableName>
+  <domainsTableName>domains</domainsTableName>
+  <emailsTableName>emails</emailsTableName>
+  <WAITE_TIME>60000</WAITE_TIME>
+  <PROGRESS_PAR_SHOW_TIME>5000</PROGRESS_PAR_SHOW_TIME>
+</cofigrations>
