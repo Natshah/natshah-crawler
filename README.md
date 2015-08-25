@@ -3,6 +3,10 @@
 Copyright (c) 2015 Natshah.com .  All rights reserved.
 
 
+The Natshah Crawler 1.x works with the Natshah Archiver 1.x
+https://github.com/Natshah/Natshah-Archiver
+
+
 List of all Crawler commands:
 
 
@@ -25,6 +29,3 @@ extensions         : Show List of File extensions.
 configurations     : Show Database configurations.
 
 info,total         : Display Total Information.
-
-
-

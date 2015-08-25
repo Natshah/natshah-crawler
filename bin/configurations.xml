@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cofigrations>
+<configurations>
   <type>QMYSQL</type>
   <!-- Database Type -->
   <host>localhost</host>
@@ -13,4 +13,4 @@
   <emailsTableName>emails</emailsTableName>
   <WAITE_TIME>60000</WAITE_TIME>
   <PROGRESS_PAR_SHOW_TIME>5000</PROGRESS_PAR_SHOW_TIME>
-</cofigrations>
+</configurations>
